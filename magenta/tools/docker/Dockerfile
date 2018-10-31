@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-devel
+FROM tensorflow/tensorflow:latest-devel-gpu
 
 MAINTAINER Curtis Hawthorne <fjord@google.com>
 
